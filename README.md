@@ -37,7 +37,7 @@ Position:
 Buy,NIFTYBANK,Previously traded strike,PE/CE,Weekly,lot=1
 
 
-Make 4 sets for CE/PE
+Make 4 sets for CE/PE. I have uploaded the chart for better visualization.
 
 
 Disclaimer :  I am not a SEBI registered investment or financial advisor. Don't deploy our strategies purely based on past performance only. We are not responsible for your profit or loss. Although this strategy is fully automated, you are advised to keep a track on your account to monitor any deviations or errors. As option selling involves market risks, Please consult your financial advisor before investing.
